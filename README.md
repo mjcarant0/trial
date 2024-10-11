@@ -2,7 +2,9 @@
 
 ![halloween_header](https://insert_your_image_here.jpg)
 
-## LOREM IPSUM
+## PROJECT 1: Fan Website
+
+Showcase something or someone you love! A pet, an idol, a group, etc.
 
 ## ARCTICBLAZE [Temporary Name]
 
@@ -33,8 +35,8 @@ git clone https://github.com/PUP-MSC-Web-Development/Upskilling-Challenge.git
 cd Upskilling-Challenge
 ```
 
-2. **Review the Documentation:** Visit the Documentation folder for links to Microsoft Learn resources for both frontend and backend development
-3. **Select a Project:** 
+2. **Review the Documentation:** Visit the Documentation folder for links to Microsoft Learn resources for both frontend and backend development.
+3. **Select a Project:** Navigate to the Projects folder and pick a project that matches your learning path (frontend or backend). Each project includes detailes instructions in the README.md.
 4. **Join Study Sessions:**
 5. **Complete and Submit Projects:**
 6. **Earn Certificate:**
