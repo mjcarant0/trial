@@ -31,6 +31,7 @@ The challenge consists both asynchronous and synchronous learning opportuinities
 ```bash
 git clone https://github.com/PUP-MSC-Web-Development/Upskilling-Challenge.git
 cd Upskilling-Challenge
+```
 
 2. **Review the Documentation:** Visit the Documentation folder for links to Microsoft Learn resources for both frontend and backend development
 3. **Select a Project:** 
