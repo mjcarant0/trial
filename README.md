@@ -1,6 +1,6 @@
 # WELCOME, MSC WEB DEVELOPMENT TEAM
 
-![halloween_header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F24048822-full-moon-night-header-or-banner-design-with-haunted-house-scary-jack-o-lanterns-on-blurred-purple-background-for-happy-halloween-party-celebration&psig=AOvVaw3xWn1ML4XQ2VZS13M9S2p1&ust=1728737054757000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDOm8KthokDFQAAAAAdAAAAABAE.png)
+![halloween_header]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F24048822-full-moon-night-header-or-banner-design-with-haunted-house-scary-jack-o-lanterns-on-blurred-purple-background-for-happy-halloween-party-celebration&psig=AOvVaw3xWn1ML4XQ2VZS13M9S2p1&ust=1728737054757000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDOm8KthokDFQAAAAAdAAAAABAE.png](https://img.freepik.com/premium-vector/black-header-banner-halloween-pumpkin_47243-1382.jpg?w=1380).png)
 
 ## LOREM IPSUM
 
