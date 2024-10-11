@@ -1,6 +1,6 @@
 # WELCOME, MSC WEB DEVELOPMENT TEAM
 
-![halloween_header](https://img.freepik.com/premium-vector/black-header-banner-halloween-pumpkin_47243-1382.jpg?w=1380)
+![halloween_header](https://via.placeholder.com/800x200.png?text=Placeholder+Image)
 
 ## LOREM IPSUM
 
