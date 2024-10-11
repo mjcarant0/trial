@@ -1,5 +1,9 @@
 # WELCOME, MSC WEB DEVELOPMENT TEAM
+<p align=”center”>
 
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
 ## LOREM IPSUM
 
 ## ARCTICBLAZE [Temporary Name]
@@ -10,8 +14,8 @@ Welcome to Arcticblaze! This upskilling program is designed for beginners intere
 
 This program is split into two key learning tracks:
 
-* Frontend Development: Learn how to create beautiful and responsive websites using HTML, CSS, and JavaScript.
-* Backend Development: Build the server side logic using Node.js, Express, and MongoDB
+* **Frontend Development:** Learn how to create beautiful and responsive websites using HTML, CSS, and JavaScript.
+* **Backend Development:** Build the server side logic using Node.js, Express, and MongoDB
 
 You will complete a series of projects to apply your learning and earn certifications for both frontend and backend development
 
@@ -19,9 +23,15 @@ You will complete a series of projects to apply your learning and earn certifica
 
 The challenge consists both asynchronous and synchronous learning opportuinities:
 
-* Asynchronous Learning: Work at your own pace by completing the projects and reviewing the resources in this repository.
-* Synchronous Learning: Join our scheduled Microsoft Teams study sessions where we cover key concepts, live-code, and answer your questions.
+* **Asynchronous Learning:** Work at your own pace by completing the projects and reviewing the resources in this repository.
+* **Synchronous Learning:** Join our scheduled Microsoft Teams study sessions where we cover key concepts, live-code, and answer your questions.
 
 ### How to Get Started
 
-1. 
+1. **Clone this repository:**
+
+2. **Review the Documentation:** Visit the Documentation folder for links to Microsoft Learn resources for both frontend and backend development
+3. **Select a Project:** 
+4. **Join Study Sessions:**
+5. **Complete and Submit Projects:**
+6. **Earn Certificate:**
