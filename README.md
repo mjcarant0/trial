@@ -37,6 +37,6 @@ cd Upskilling-Challenge
 
 2. **Review the Documentation:** Visit the Documentation folder for links to Microsoft Learn resources for both frontend and backend development.
 3. **Select a Project:** Navigate to the Projects folder and pick a project that matches your learning path (frontend or backend). Each project includes detailes instructions in the README.md.
-4. **Join Study Sessions:**
-5. **Complete and Submit Projects:**
-6. **Earn Certificate:**
+4. **Join Study Sessions:** If you prejer synchronous learning, join the scheduled study sessions via Microsoft Teams. The schedule and links are available in the Study Sessions folder.
+5. **Complete and Submit Projects:** Once you comple a project, submit your work via a pull request (PR) to this repository. Ensure your code follows the project guidelines.
+6. **Earn Certificate:** After completing all required projects in either frontend or backend, you will be eligible for a certification.
