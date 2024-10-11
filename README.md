@@ -23,3 +23,5 @@ The challenge consists both asynchronous and synchronous learning opportuinities
 * Synchronous Learning: Join our scheduled Microsoft Teams study sessions where we cover key concepts, live-code, and answer your questions.
 
 ### How to Get Started
+
+1. 
