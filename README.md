@@ -6,6 +6,15 @@
 
 Showcase something or someone you love! A pet, an idol, a group, etc.
 
+* ***Difficulty Level:** Beginner Level
+
+### **Requirements:** 
+
+1. **Media Queries** for responsive across different screen sizes.
+2. **CSS Variables** for easy theme customization (e.g., color, fonts).
+3. Use of **Web Fonts** (e.g., Google Fonts) for typography.
+4. **Image Optimization** for faster loading times
+
 ## ARCTICBLAZE [Temporary Name]
 
 Welcome to Arcticblaze! This upskilling program is designed for beginners interested in learning web development through both frontend and backend technologies. Whether you're joining synchronously through study sessions or working asynchronously via this GitHub repository, this challenge will help you master the fundamentals of full-stack development.
