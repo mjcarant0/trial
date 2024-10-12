@@ -6,7 +6,7 @@
 
 Showcase something or someone you love! A pet, an idol, a group, etc.
 
-* ***Difficulty Level:** Beginner Level
+* **Difficulty Level:** Beginner Level
 
 ### **Requirements:** 
 
