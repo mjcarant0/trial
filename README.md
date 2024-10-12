@@ -10,7 +10,7 @@ Showcase something or someone you love! A pet, an idol, a group, etc.
 
 ### **Requirements:** 
 
-1. **Media Queries** for responsive across different screen sizes.
+1. **Media Queries** for responsiveness across different screen sizes.
 2. **CSS Variables** for easy theme customization (e.g., color, fonts).
 3. Use of **Web Fonts** (e.g., Google Fonts) for typography.
 4. **Image Optimization** for faster loading times
